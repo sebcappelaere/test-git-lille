@@ -1,1 +1,2 @@
-Premi�re ligne du fichier
+﻿Première ligne du fichier
+Ma première contribution au projet
